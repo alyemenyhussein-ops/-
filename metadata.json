@@ -1,0 +1,6 @@
+{
+  "name": "مُشخّص مسارات التحميص الفيزيائي | Roast Curve & Thermodynamics Troubleshooter",
+  "description": "محلل وتشخيص فيزيائي وديناميكي حراري متقدم لمنحنيات تحميص القهوة المختصة، يدعم تحليل الصور والبيانات الرقمية وتوليد منحنيات الشبح المثالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
