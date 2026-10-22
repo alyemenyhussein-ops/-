@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">مُشخّص مسارات التحميص الفيزيائي | Roast Curve &amp; Thermodynamics Troubleshooter</string>
+    <string name="app_short_name">مُشخّص التحميص</string>
+    <string name="brand_ittizan">إتزان</string>
+    <string name="brand_sub">ديناميكا تحميص القهوة المختصة</string>
+    <string name="tab_diagnostics">التشخيص والمنحنى</string>
+    <string name="tab_vault">خزينة التحميصات</string>
+    <string name="tab_trainer">وضع المدرب</string>
+    <string name="tab_scaler">تحجيم الدفعات</string>
+    <string name="tab_guide">الدليل العلمي</string>
+</resources>

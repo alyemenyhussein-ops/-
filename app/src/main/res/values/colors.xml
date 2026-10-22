@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian">#0D0F12</color>
+    <color name="basalt">#161920</color>
+    <color name="copper">#D97724</color>
+    <color name="copper_dark">#B8621B</color>
+    <color name="cyan">#38BDF8</color>
+    <color name="emerald">#10B981</color>
+    <color name="white">#FFFFFF</color>
+</resources>
